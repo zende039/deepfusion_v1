@@ -1,0 +1,102 @@
+TIME_STAMP
+Lon
+Lat
+5G KPI PCell RF Serving PCI
+5G KPI PCell RF Serving PCI MOD 3
+5G KPI PCell RF Serving PCI MOD 4
+5G KPI PCell RF Serving PCI MOD 12
+5G KPI PCell RF Serving PCI MOD 30
+5G KPI PCell RF NR-ARFCN
+5G KPI PCell RF Band
+5G KPI PCell RF BandWidth
+5G KPI PCell RF Frequency [MHz]
+5G KPI PCell RF Subcarrier Spacing
+5G KPI PCell RF Duplex Mode
+5G KPI PCell RF Tx Beam ID 0
+5G KPI PCell RF Serving PCI-SSB Idx
+5G KPI PCell RF Serving SSB Idx
+5G KPI PCell RF Serving SS-RSRP [dBm]
+5G KPI PCell RF Serving SS-RSRQ [dB]
+5G KPI PCell RF Serving SS-SINR [dB]
+5G KPI PCell RF Best Beam SSB Idx
+5G KPI PCell RF Best Beam SS-RSRP [dBm]
+5G KPI PCell RF Best Beam SS-RSRQ [dB]
+5G KPI PCell RF Best Beam State
+5G KPI PCell RF Best Beam CSI-RSRP[SSBRI] [dBm]
+5G KPI PCell RF Pathloss [dB]
+5G KPI PCell RF RI
+5G KPI PCell RF RI1 Rate [%]
+5G KPI PCell RF RI2 Rate [%]
+5G KPI PCell RF RI3 Rate [%]
+5G KPI PCell RF RI4 Rate [%]
+5G KPI PCell RF CQI
+5G KPI PCell RF PMI i(1;1)
+5G KPI PCell RF PMI i(1;2)
+5G KPI PCell RF PMI i(1;3)
+5G KPI PCell RF PMI i(2)
+5G KPI PCell RF LI
+5G KPI PCell RF LI1 Rate
+5G KPI PCell RF LI2 Rate
+5G KPI PCell RF LI3 Rate
+5G KPI PCell RF LI4 Rate
+5G KPI PCell RF CRI
+5G KPI PCell RF TA
+5G KPI PCell RF PRACH Power [dBm]
+5G KPI PCell RF PUSCH Power [dBm]
+5G KPI PCell RF PUCCH Power [dBm]
+5G KPI PCell RF SRS Power [dBm]
+5G KPI PCell RF PUSCH MTPL [dBm]
+5G KPI PCell RF PHR(Avg)
+5G KPI PCell RF Neighbor Top1 PCI
+5G KPI PCell RF Neighbor Top1 SS-RSRP [dBm]
+5G KPI PCell RF Neighbor Top1 SS-RSRQ [dB]
+5G KPI PCell RF Neighbor Top2 PCI
+5G KPI PCell RF Neighbor Top2 SS-RSRP [dBm]
+5G KPI PCell RF Neighbor Top2 SS-RSRQ [dB]
+5G KPI PCell RF Neighbor Top3 PCI
+5G KPI PCell RF Neighbor Top3 SS-RSRP [dBm]
+5G KPI PCell RF Neighbor Top3 SS-RSRQ [dB]
+5G KPI SCell[1] RF Serving PCI
+5G KPI SCell[1] RF NR-ARFCN
+5G KPI SCell[1] RF Band
+5G KPI SCell[1] RF BandWidth
+5G KPI SCell[1] RF Frequency [MHz]
+5G KPI SCell[1] RF Duplex Mode
+5G KPI SCell[1] RF Serving PCI-SSB Idx
+5G KPI SCell[1] RF Serving SSB Idx
+5G KPI SCell[1] RF Serving SS-RSRP [dBm]
+5G KPI SCell[1] RF Serving SS-RSRQ [dB]
+5G KPI SCell[1] RF Best Beam SSB Idx
+5G KPI SCell[1] RF Best Beam SS-RSRP [dBm]
+5G KPI SCell[1] RF Best Beam SS-RSRQ [dB]
+5G KPI SCell[1] RF Best Beam State
+5G KPI SCell[1] RF Neighbor Top1 PCI
+5G KPI SCell[1] RF Neighbor Top1 SS-RSRP [dBm]
+5G KPI SCell[1] RF Neighbor Top1 SS-RSRQ [dB]
+5G KPI SCell[1] RF Neighbor Top2 PCI
+5G KPI SCell[1] RF Neighbor Top2 SS-RSRP [dBm]
+5G KPI SCell[1] RF Neighbor Top2 SS-RSRQ [dB]
+5G KPI SCell[1] RF Neighbor Top3 PCI
+5G KPI SCell[1] RF Neighbor Top3 SS-RSRP [dBm]
+5G KPI SCell[1] RF Neighbor Top3 SS-RSRQ [dB]
+API GPS Info Altitude
+API GPS Info Speed
+Event Technology
+Event Technology(Band)
+Event 5G-NR Events
+5G-NR RRC NR MCG Mobility Statistics Intra-NR HandoverAttempt
+5G-NR RRC NR MCG Mobility Statistics Intra-NR HandoverResult
+5G-NR RRC NR MCG Mobility Statistics Intra-NR HandoverDuration [sec]
+5G-NR RRC NR MCG Mobility Statistics Intra-NR HandoverMeasure Report(Last)
+5G-NR RRC NR MCG Mobility Statistics Intra-NR HandoverMR(Last) to Success Duration [s]
+5G-NR RRC NR MCG Mobility Statistics Intra-NR HandoverMeasure Report(First)
+5G-NR RRC NR MCG Mobility Statistics Intra-NR HandoverMR(First) to Success Duration [s]
+5G-NR RRC NR MCG Mobility Statistics HO Type for Frequency
+5G-NR RRC NR MCG Mobility Statistics Intrafreq Handover Attempt
+5G-NR RRC NR MCG Mobility Statistics Intrafreq Handover Result
+5G-NR RRC NR MCG Mobility Statistics Intrafreq Handover Duration [sec]
+5G-NR RRC NR MCG Mobility Statistics Intrafreq Handover Measure Report(Last)
+5G-NR RRC NR MCG Mobility Statistics Intrafreq Handover MR(Last) to Success Duration [s]
+5G-NR RRC NR MCG Mobility Statistics Intrafreq Handover Measure Report(First)
+5G-NR RRC NR MCG Mobility Statistics Intrafreq Handover MR(First) to Success Duration [s]
+5G-NR RRC NR MCG Mobility Statistics Intrafreq Handover Source to Target NR-ARFCN/PCI
